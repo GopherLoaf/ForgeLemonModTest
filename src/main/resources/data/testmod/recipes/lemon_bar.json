@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "lemon_bar",
+  "key": {
+    "A": {
+      "item": "minecraft:sugar"
+    },
+    "B": {
+      "item": "minecraft:egg"
+    },
+    "C": {
+      "item": "minecraft:wheat"
+    },
+    "E": [
+      {
+        "item": "testmod:lemon"
+      },
+      {
+        "item": "testmod:lemon_juice_bottle"
+      }
+    ]
+  },
+  "pattern": [
+    "AAA",
+    "BEB",
+    "CCC"
+  ],
+  "result": {
+    "item": "testmod:lemon_bar",
+    "count": 12
+
+  },
+  "show_notification": true
+}
