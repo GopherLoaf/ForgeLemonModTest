@@ -1,7 +1,6 @@
 package com.github.gopherloaf.testmod.init;
 
 import com.github.gopherloaf.testmod.items.ModItems;
-import net.minecraft.world.level.ItemLike;
 import net.minecraft.world.level.block.ComposterBlock;
 
 public class LemonListInject {
